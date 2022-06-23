@@ -1,4 +1,4 @@
-public class NegativeRomeNumberException extends Exception{
+public class NegativeRomeNumberException extends Exception {
 
     public NegativeRomeNumberException(String message) {
         super(message);

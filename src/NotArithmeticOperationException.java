@@ -1,4 +1,4 @@
-public class NotArithmeticOperationException  extends Exception{
+public class NotArithmeticOperationException extends Exception {
 
     public NotArithmeticOperationException(String message) {
         super(message);
